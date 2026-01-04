@@ -1,1 +1,0 @@
-# Common API request methods
